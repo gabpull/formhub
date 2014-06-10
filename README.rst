@@ -4,15 +4,15 @@ Formhub
 .. image:: https://secure.travis-ci.org/modilabs/formhub.png?branch=master
   :target: http://travis-ci.org/modilabs/formhub
 
-Installation
+Instalación
 ------------
-Please read the `Installation and Deployment Guide <https://github.com/modilabs/formhub/wiki/Installation-and-Deployment>`_.
+Por favor leer la `Guía de instalación e implementación <https://github.com/modilabs/formhub/wiki/Installation-and-Deployment>`_.
 
-Contributing
+Contribuir
 ------------
 
-If you would like to contribute code please read
-`Contributing Code to Formhub <https://github.com/modilabs/formhub/wiki/Contributing-Code-to-Formhub>`_.
+Si usted desea contribuir con código lea
+`Contribuir al Código Formhub <https://github.com/modilabs/formhub/wiki/Contributing-Code-to-Formhub>`_.
 
 Code Structure
 --------------
